@@ -1,6 +1,6 @@
 # Jak zacząć swoją przygode z GP CTF
 ## To bardzo proste.
-### Po prostu wejdź na [stronę z challangami](https://example.com) wybierz jeden dla siebie i zacznij swoją przygode z hakingiem
+### Po prostu wejdź na [stronę z challangami](https://gpctf.cytr.us) wybierz jeden dla siebie i zacznij swoją przygode z hakingiem
 # Docker
 ### Do niektórych challangy będziesz potrzebował użyć [Dockera](https://www.docker.com/) 
 ### Jeżeli nie masz go zainstalowanego to będziesz musiał go pobrać i zainstalować(logiczne).
