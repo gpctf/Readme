@@ -27,7 +27,7 @@ sudo docker build -t ctftestimage ./
 ```
 a następnie uruchom obraz przy pomocy polecenia
 ```bash
-sudo docker run -p 8888:80 testimage
+sudo docker run -p 8888:80 ctftestimage
 ```
 wtedy po przejściu na strone [http://localhost:8888](http://localhost:8888) będziesz mógł zobaczyć naszą wspaniałą stronę obrazu testowego
 
