@@ -19,7 +19,7 @@ Aby zainstalować dockera(na dowolnym systemie) [użyj tego linku](https://docs.
 
 Przeprowadzi cie on przez cały process instalacji oraz pomoże w poprawnej konfiguracji programu
 # Uruchamianie obrazów
-po zainstalowaniu dockera możesz sprawdzić czy działa przy pomocy specjalnie przygotowanego przez nas w tym celu obrazu 
+po zainstalowaniu dockera możesz sprawdzić czy działa przy pomocy specjalnie przygotowanego przez nas w tym celu obrazu [pobierz go tutaj](https://github.com/gpctf/test-image)
 
 Najpierw zbuduj go używająć
 ```bash
