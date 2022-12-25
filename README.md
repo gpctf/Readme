@@ -15,7 +15,7 @@ Nasępnie wystarczy zrestartować komputer i już jesteś w pełni gotowy do ins
 
 *Ps. aby wywołać shell linuxa wystarczy że w powershellu wpiszesz ```wsl```*
 
-Aby zainstalować dockera(na dowolnym systemie) [użyj tego linku](https://docs.docker.com/get-docker/)
+Aby zainstalować dockera(na dowolnym systemie) [użyj tego linku](https://docs.docker.com/engine/install/)
 
 Przeprowadzi cie on przez cały process instalacji oraz pomoże w poprawnej konfiguracji programu
 # Uruchamianie obrazów
